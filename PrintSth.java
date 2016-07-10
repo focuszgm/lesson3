@@ -7,6 +7,7 @@ public class PrintSth {
 		System.out.println("One");
 		PrintSth a = new PrintSth();
 		a.say();
+		a.say();
 	}
 	public void say(){
 		System.out.println("Two");
